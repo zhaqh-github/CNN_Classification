@@ -1,5 +1,8 @@
 # CNN Image Classification using Pytorch
-This repository offers a comprehensive framework for conducting image classification tasks using Convolutional Neural Networks (CNNs) in PyTorch. It focuses on employing image augmentation for data preprocessing, utilizing transfer learning with pretrained models for custom data, and optimizing and testing these models. This project aims to provide a practical template for preprocessing models and efficiently training them on custom datasets.
+This repository offers a comprehensive framework for conducting image classification tasks using Convolutional Neural Networks (CNNs) in PyTorch. It focuses on employing image augmentation for data preprocessing, utilizing transfer learning with pretrained models for custom data, and optimizing and testing these models. This project aims to provide a practical template for preprocessing models and efficiently training them on custom datasets.  
+
+**Training Data(https://drive.google.com/drive/folders/12fc-e8N9md1SqKT-jmTTAQ-_J0Uuk5hB?usp=sharing)**
+
 
 
 ## Overview
